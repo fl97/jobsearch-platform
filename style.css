@@ -350,6 +350,7 @@ body {
 .search.item svg {
   width: 12px;
   margin-left: 5px;
+  cursor: pointer;
 }
 
 .search.item:last-child {
@@ -418,6 +419,7 @@ body {
   font-size: 13px;
   font-weight: 600;
   margin-top: 14px;
+  cursor: pointer;
 }
 
 .job-wrapper {
